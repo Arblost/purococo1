@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Order Chatbot",
+  "description": "A conversational chatbot powered by the Gemini API to take customer orders in a step-by-step manner.",
+  "requestFramePermissions": []
+}
